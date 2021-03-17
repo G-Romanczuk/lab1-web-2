@@ -77,4 +77,29 @@ font-size: 30px;
     display: inline-block;
     width: 50%;
 }
-
+#kola
+{
+    display: flex;
+ justify-content: center;
+}
+#kolo
+{
+text-align: center;
+ width: 200px;
+ height: 200px;
+ background-color: rgb(42, 150, 203);
+ border-radius: 50%;
+ display: inline-block;
+ margin-left: -15px;
+ margin-right: -15px;
+ opacity: 0.5;
+}
+#kolo:hover
+{
+    opacity: 1;
+}
+#wk
+{
+    margin-top: 80px;
+    vertical-align: middle;
+}
