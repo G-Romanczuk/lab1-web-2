@@ -47,4 +47,20 @@ font-size: 30px;
     margin-left: auto;
     width: 32%;
 }
+#build
+{
+    text-align: center;
+    padding: 20px;
+}
+#build-gora
+{
+    font-size: 50px;
+
+}
+#build-dol
+{
+    width: 80%;
+    color: blue;
+    margin: auto;
+}
 
